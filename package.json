@@ -1,0 +1,21 @@
+{
+  "name": "deneme",
+  "version": "1.0.0",
+  "description": "How to run CLI",
+  "main": "command.js",
+  "dependencies": {
+    "commander": "^2.15.1",
+    "request": "^2.85.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mtigdemir/github-search-nodejs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mtigdemir/github-search-nodejs/issues"
+  },
+  "homepage": "https://github.com/mtigdemir/github-search-nodejs#readme"
+}
