@@ -1,7 +1,7 @@
 {
-  "name": "deneme",
+  "name": "github-search-cli",
   "version": "1.0.0",
-  "description": "How to run CLI",
+  "description": "Search Github Repo via CLI",
   "main": "command.js",
   "dependencies": {
     "commander": "^2.15.1",
